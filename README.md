@@ -6,6 +6,4 @@ A simple program that returns the corresponding FEN code for a chess position. U
 
 ## Usage
 
-## Contributing
-
 ## License
